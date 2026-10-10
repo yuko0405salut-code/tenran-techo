@@ -10,7 +10,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/special/2026_genji/",
     "bg": "#d9cbb5",
     "fg": "#5e4937",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -24,7 +24,7 @@ window.EXHIBITIONS=[
     "url": "https://www.artm.pref.hyogo.jp/exhibition/t_2610/index.html",
     "bg": "#c6cdbb",
     "fg": "#3a493a",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "hyogo"
   },
   {
@@ -38,7 +38,7 @@ window.EXHIBITIONS=[
     "url": "https://nakka-art.jp/exhibition-post/nichibiten50/",
     "bg": "#c4d3d7",
     "fg": "#314b57",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "osaka"
   },
   {
@@ -64,7 +64,7 @@ window.EXHIBITIONS=[
     "url": "https://www.artm.pref.hyogo.jp/exhibition/j_2610/index.html",
     "bg": "#d3b6aa",
     "fg": "#6e3e37",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "hyogo"
   },
   {
@@ -90,7 +90,7 @@ window.EXHIBITIONS=[
     "url": "https://www.artm.pref.hyogo.jp/exhibition/",
     "bg": "#c6cdbb",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "hyogo"
   },
   {
@@ -104,7 +104,7 @@ window.EXHIBITIONS=[
     "url": "https://nakka-art.jp/exhibition-post/colle-naka-2026/",
     "bg": "#c4d3d7",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "osaka"
   },
   {
@@ -118,7 +118,7 @@ window.EXHIBITIONS=[
     "url": "https://nakka-art.jp/exhibition-post/daiei-ten2026/",
     "bg": "#c4d3d7",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "osaka"
   },
   {
@@ -132,7 +132,7 @@ window.EXHIBITIONS=[
     "url": "https://nakka-art.jp/exhibition-post/osaka-directory-dir13/",
     "bg": "#c4d3d7",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "osaka"
   },
   {
@@ -146,7 +146,7 @@ window.EXHIBITIONS=[
     "url": "https://nakka-art.jp/exhibition-post/osaka-directory-dir14/",
     "bg": "#c4d3d7",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "osaka"
   },
   {
@@ -160,7 +160,7 @@ window.EXHIBITIONS=[
     "url": "https://nakka-art.jp/exhibition-post/paving-the-way100/",
     "bg": "#c4d3d7",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "osaka"
   },
   {
@@ -174,7 +174,7 @@ window.EXHIBITIONS=[
     "url": "https://nakka-art.jp/exhibition-post/osaka-directory-dir15/",
     "bg": "#c4d3d7",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "osaka"
   },
   {
@@ -188,7 +188,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/special/2027_shimadzu/",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -202,7 +202,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/feature/b/2026_sheep/",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -216,7 +216,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/feature/b/2026_tea/",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -230,7 +230,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/feature/b/2027_hina/",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -244,7 +244,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2026/12/?date=22#Theme6570-22",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -258,7 +258,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2026/12/?date=22#Theme6573-22",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -272,7 +272,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2026/12/?date=22#Theme6583-22",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -286,7 +286,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2026/12/?date=22#Theme6586-22",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -300,7 +300,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2026/12/?date=22#Theme6575-22",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -314,7 +314,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2026/12/?date=22#Theme6580-22",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -328,7 +328,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2026/12/?date=22#Theme6587-22",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -342,7 +342,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2026/12/?date=22#Theme6589-22",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -356,7 +356,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2026/12/?date=22#Theme6582-22",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -370,7 +370,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/01/?date=02#Theme6568-02",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -384,7 +384,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/01/?date=02#Theme6569-02",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -398,7 +398,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/01/?date=26#Theme6571-26",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -412,7 +412,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/01/?date=26#Theme6574-26",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -426,7 +426,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/01/?date=26#Theme6584-26",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -440,7 +440,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/02/?date=09#Theme6576-09",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -454,7 +454,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/02/?date=09#Theme6578-09",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -468,7 +468,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/02/?date=09#Theme6581-09",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -482,7 +482,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/02/?date=10#Theme6588-10",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -496,7 +496,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/02/?date=23#Theme6572-23",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -510,7 +510,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/02/?date=23#Theme6579-23",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -524,7 +524,7 @@ window.EXHIBITIONS=[
     "url": "https://www.kyohaku.go.jp/jp/exhibitions/collection/2027/02/?date=23#Theme6585-23",
     "bg": "#d9cbb5",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "kyohaku"
   },
   {
@@ -538,7 +538,7 @@ window.EXHIBITIONS=[
     "url": "https://www.artm.pref.hyogo.jp/kenten/y2026_kenten/index.html",
     "bg": "#c6cdbb",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "hyogo"
   },
   {
@@ -552,7 +552,7 @@ window.EXHIBITIONS=[
     "url": "https://www.artm.pref.hyogo.jp/exhibition/",
     "bg": "#c6cdbb",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "hyogo"
   },
   {
@@ -566,7 +566,7 @@ window.EXHIBITIONS=[
     "url": "https://www.artm.pref.hyogo.jp/exhibition/",
     "bg": "#c6cdbb",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "hyogo"
   },
   {
@@ -580,8 +580,8 @@ window.EXHIBITIONS=[
     "url": "https://www.artm.pref.hyogo.jp/exhibition/j_2610/katachi.html",
     "bg": "#c6cdbb",
     "fg": "#303b32",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "sourceKey": "hyogo"
   }
 ];
-window.COLLECTION_STATUS={"checkedAt": "2026-10-10T08:55:51.139107+00:00", "sources": [{"museum": "兵庫県立美術館", "status": "取得成功", "count": 11}, {"museum": "大阪中之島美術館", "status": "取得成功", "count": 7}, {"museum": "京都国立博物館", "status": "取得成功", "count": 28}, {"museum": "京都市京セラ美術館・国立西洋美術館", "status": "手動確認分を掲載・自動更新対象外"}]};
+window.COLLECTION_STATUS={"checkedAt": "2026-10-10T21:27:30.021636+00:00", "sources": [{"museum": "兵庫県立美術館", "status": "取得成功", "count": 11}, {"museum": "大阪中之島美術館", "status": "取得成功", "count": 7}, {"museum": "京都国立博物館", "status": "取得成功", "count": 28}, {"museum": "京都市京セラ美術館・国立西洋美術館", "status": "手動確認分を掲載・自動更新対象外"}]};
