@@ -11,7 +11,13 @@ window.EXHIBITIONS=[
     "bg": "#d9cbb5",
     "fg": "#5e4937",
     "checkedAt": "2026-10-11",
-    "sourceKey": "kyohaku"
+    "sourceKey": "kyohaku",
+    "admission": {
+      "status": "取得成功",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://www.kyohaku.go.jp/jp/exhibitions/special/2026_genji/",
+      "yen": 2200
+    }
   },
   {
     "id": "passion2026",
@@ -25,7 +31,13 @@ window.EXHIBITIONS=[
     "bg": "#c6cdbb",
     "fg": "#3a493a",
     "checkedAt": "2026-10-11",
-    "sourceKey": "hyogo"
+    "sourceKey": "hyogo",
+    "admission": {
+      "status": "取得成功",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://www.artm.pref.hyogo.jp/exhibition/t_2610/index.html",
+      "yen": 1800
+    }
   },
   {
     "id": "nichibi2026",
@@ -39,7 +51,13 @@ window.EXHIBITIONS=[
     "bg": "#c4d3d7",
     "fg": "#314b57",
     "checkedAt": "2026-10-11",
-    "sourceKey": "osaka"
+    "sourceKey": "osaka",
+    "admission": {
+      "status": "取得成功",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://nakka-art.jp/exhibition-post/nichibiten50/",
+      "yen": 2000
+    }
   },
   {
     "id": "turner2026",
@@ -65,7 +83,13 @@ window.EXHIBITIONS=[
     "bg": "#d3b6aa",
     "fg": "#6e3e37",
     "checkedAt": "2026-10-11",
-    "sourceKey": "hyogo"
+    "sourceKey": "hyogo",
+    "admission": {
+      "status": "取得成功",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://www.artm.pref.hyogo.jp/exhibition/j_2610/index.html",
+      "yen": 550
+    }
   },
   {
     "id": "kyoto2026",
@@ -105,7 +129,13 @@ window.EXHIBITIONS=[
     "bg": "#c4d3d7",
     "fg": "#303b32",
     "checkedAt": "2026-10-11",
-    "sourceKey": "osaka"
+    "sourceKey": "osaka",
+    "admission": {
+      "status": "取得成功",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://nakka-art.jp/exhibition-post/colle-naka-2026/",
+      "yen": 0
+    }
   },
   {
     "id": "osaka-80587d4bc40fe4",
@@ -119,7 +149,13 @@ window.EXHIBITIONS=[
     "bg": "#c4d3d7",
     "fg": "#303b32",
     "checkedAt": "2026-10-11",
-    "sourceKey": "osaka"
+    "sourceKey": "osaka",
+    "admission": {
+      "status": "取得成功",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://nakka-art.jp/exhibition-post/daiei-ten2026/",
+      "yen": 2300
+    }
   },
   {
     "id": "osaka-d9717eba341b8a",
@@ -133,7 +169,13 @@ window.EXHIBITIONS=[
     "bg": "#c4d3d7",
     "fg": "#303b32",
     "checkedAt": "2026-10-11",
-    "sourceKey": "osaka"
+    "sourceKey": "osaka",
+    "admission": {
+      "status": "取得成功",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://nakka-art.jp/exhibition-post/osaka-directory-dir13/",
+      "yen": 0
+    }
   },
   {
     "id": "osaka-3520b569587645",
@@ -147,7 +189,13 @@ window.EXHIBITIONS=[
     "bg": "#c4d3d7",
     "fg": "#303b32",
     "checkedAt": "2026-10-11",
-    "sourceKey": "osaka"
+    "sourceKey": "osaka",
+    "admission": {
+      "status": "取得成功",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://nakka-art.jp/exhibition-post/osaka-directory-dir14/",
+      "yen": 0
+    }
   },
   {
     "id": "osaka-83aaf8eab55c03",
@@ -161,7 +209,13 @@ window.EXHIBITIONS=[
     "bg": "#c4d3d7",
     "fg": "#303b32",
     "checkedAt": "2026-10-11",
-    "sourceKey": "osaka"
+    "sourceKey": "osaka",
+    "admission": {
+      "status": "取得成功",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://nakka-art.jp/exhibition-post/paving-the-way100/",
+      "yen": 1900
+    }
   },
   {
     "id": "osaka-5d180613196c10",
@@ -175,7 +229,13 @@ window.EXHIBITIONS=[
     "bg": "#c4d3d7",
     "fg": "#303b32",
     "checkedAt": "2026-10-11",
-    "sourceKey": "osaka"
+    "sourceKey": "osaka",
+    "admission": {
+      "status": "取得成功",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://nakka-art.jp/exhibition-post/osaka-directory-dir15/",
+      "yen": 0
+    }
   },
   {
     "id": "kyohaku-340c301c61eb5a",
@@ -189,7 +249,12 @@ window.EXHIBITIONS=[
     "bg": "#d9cbb5",
     "fg": "#303b32",
     "checkedAt": "2026-10-11",
-    "sourceKey": "kyohaku"
+    "sourceKey": "kyohaku",
+    "admission": {
+      "status": "確認できず",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://www.kyohaku.go.jp/jp/exhibitions/special/2027_shimadzu/"
+    }
   },
   {
     "id": "kyohaku-fa364515a81aec",
@@ -582,6 +647,45 @@ window.EXHIBITIONS=[
     "fg": "#303b32",
     "checkedAt": "2026-10-11",
     "sourceKey": "hyogo"
+  },
+  {
+    "id": "kobe-47d7493090c2e1",
+    "title": "特別展 トーベとムーミン展～とっておきのものを探しに～",
+    "short": "特別展 トーベとムーミン展～とっておきのものを探しに～",
+    "museum": "神戸市立博物館",
+    "region": "兵庫",
+    "start": "2026-10-10",
+    "end": "2026-12-13",
+    "url": "https://www.kobecitymuseum.jp/exhibition/detail?exhibition=392",
+    "bg": "#c6cdbb",
+    "fg": "#303b32",
+    "checkedAt": "2026-10-11",
+    "sourceKey": "kobe",
+    "admission": {
+      "status": "取得成功",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://www.kobecitymuseum.jp/exhibition/detail?exhibition=392",
+      "yen": 2200
+    }
+  },
+  {
+    "id": "kobe-3f7ad43c21c4c0",
+    "title": "大ゴッホ展 アルルの跳ね橋",
+    "short": "大ゴッホ展 アルルの跳ね橋",
+    "museum": "神戸市立博物館",
+    "region": "兵庫",
+    "start": "2027-02-06",
+    "end": "2027-05-30",
+    "url": "https://www.kobecitymuseum.jp/exhibition/detail?exhibition=397",
+    "bg": "#c6cdbb",
+    "fg": "#303b32",
+    "checkedAt": "2026-10-11",
+    "sourceKey": "kobe",
+    "admission": {
+      "status": "確認できず",
+      "checkedAt": "2026-10-11",
+      "sourceUrl": "https://www.kobecitymuseum.jp/exhibition/detail?exhibition=397"
+    }
   }
 ];
-window.COLLECTION_STATUS={"checkedAt": "2026-10-10T21:27:30.021636+00:00", "sources": [{"museum": "兵庫県立美術館", "status": "取得成功", "count": 11}, {"museum": "大阪中之島美術館", "status": "取得成功", "count": 7}, {"museum": "京都国立博物館", "status": "取得成功", "count": 28}, {"museum": "京都市京セラ美術館・国立西洋美術館", "status": "手動確認分を掲載・自動更新対象外"}]};
+window.COLLECTION_STATUS={"checkedAt": "2026-10-10T23:15:18.838787+00:00", "sources": [{"museum": "兵庫県立美術館", "status": "取得成功", "count": 11}, {"museum": "大阪中之島美術館", "status": "取得成功", "count": 7}, {"museum": "京都国立博物館", "status": "取得成功", "count": 28}, {"museum": "神戸市立博物館", "status": "取得成功", "count": 2}, {"museum": "京都市京セラ美術館・国立西洋美術館", "status": "手動確認分を掲載・自動更新対象外"}], "admission": {"取得成功": 11, "確認できず": 2, "取得失敗": 0}};
