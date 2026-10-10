@@ -5,3 +5,4 @@
 .poster h3{font-size:clamp(18px,2.2vw,28px);overflow:auto}.poster h3::-webkit-scrollbar{width:3px}
 
 .poster[data-detail]{cursor:pointer}.poster[data-detail]:focus-visible{outline:3px solid #44644b;outline-offset:4px}#details{max-width:560px;width:calc(100% - 32px);max-height:85vh;overflow:auto;padding:30px;box-sizing:border-box}#details h2{padding-right:24px}#details h3{margin-top:24px}#details p{line-height:1.8}#details label{display:block}#details input{display:block;margin:10px 0;width:100%;box-sizing:border-box}#details a{color:#37523c;text-underline-offset:4px}#details hr{border:0;border-top:1px solid #ddd;margin:24px 0}
+.primary:hover{background:#43533f;color:#fff}
