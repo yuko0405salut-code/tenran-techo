@@ -24,11 +24,12 @@ def dates(s,year=None):
   return a,b
  except ValueError:return None
 def parse(key,s):
+ s=re.sub(r'<!--.*?-->','',s,flags=re.S)
  result=[]
  if key=='hyogo':
   year=re.search(r'(20\d\d)年\s*年間スケジュール',s)
   if not year:raise ValueError('年間表の年を確認できません')
-  for block in re.split(r'<div class="exhibition-item\s',s)[1:]:
+  for block in re.split(r'<div class="exhibition-item(?:\s|")',s)[1:]:
    title=field(block,'h3','exhibition-title').split('<span')[0]
    heading=block.split('exhibition-heading',1)[-1].split('exhibition-body',1)[0]
    period=dates(heading,int(year[1]))

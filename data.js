@@ -61,9 +61,11 @@ window.EXHIBITIONS=[
     "region": "兵庫",
     "start": "2026-10-20",
     "end": "2027-02-23",
-    "url": "https://www.artm.pref.hyogo.jp/exhibition/",
+    "url": "https://www.artm.pref.hyogo.jp/exhibition/j_2610/index.html",
     "bg": "#d3b6aa",
-    "fg": "#6e3e37"
+    "fg": "#6e3e37",
+    "checkedAt": "2026-10-10",
+    "sourceKey": "hyogo"
   },
   {
     "id": "kyoto2026",
@@ -85,7 +87,7 @@ window.EXHIBITIONS=[
     "region": "兵庫",
     "start": "2027-03-20",
     "end": "2027-05-23",
-    "url": "https://www.artm.pref.hyogo.jp/exhibition/t_2503/",
+    "url": "https://www.artm.pref.hyogo.jp/exhibition/",
     "bg": "#c6cdbb",
     "fg": "#303b32",
     "checkedAt": "2026-10-10",
@@ -524,6 +526,62 @@ window.EXHIBITIONS=[
     "fg": "#303b32",
     "checkedAt": "2026-10-10",
     "sourceKey": "kyohaku"
+  },
+  {
+    "id": "hyogo-7b5cee243a52d3",
+    "title": "2026県展 The Hyogo Prefectural Exhibition 2026",
+    "short": "2026県展 The Hyogo Prefectural Exhibition 2026",
+    "museum": "兵庫県立美術館",
+    "region": "兵庫",
+    "start": "2026-10-31",
+    "end": "2026-11-14",
+    "url": "https://www.artm.pref.hyogo.jp/kenten/y2026_kenten/index.html",
+    "bg": "#c6cdbb",
+    "fg": "#303b32",
+    "checkedAt": "2026-10-10",
+    "sourceKey": "hyogo"
+  },
+  {
+    "id": "hyogo-2af1e5eec36c98",
+    "title": "黒川 岳",
+    "short": "黒川 岳",
+    "museum": "兵庫県立美術館",
+    "region": "兵庫",
+    "start": "2026-11-28",
+    "end": "2027-01-31",
+    "url": "https://www.artm.pref.hyogo.jp/exhibition/",
+    "bg": "#c6cdbb",
+    "fg": "#303b32",
+    "checkedAt": "2026-10-10",
+    "sourceKey": "hyogo"
+  },
+  {
+    "id": "hyogo-6ef1e8110bd3de",
+    "title": "特集 王一亭 おういってい とその時代（仮題）",
+    "short": "特集 王一亭 おういってい とその時代（仮題）",
+    "museum": "兵庫県立美術館",
+    "region": "兵庫",
+    "start": "2026-12-17",
+    "end": "2027-02-23",
+    "url": "https://www.artm.pref.hyogo.jp/exhibition/",
+    "bg": "#c6cdbb",
+    "fg": "#303b32",
+    "checkedAt": "2026-10-10",
+    "sourceKey": "hyogo"
+  },
+  {
+    "id": "hyogo-42487265bca44c",
+    "title": "小企画 美術の中のかたち―手で見る造形 青木 野枝",
+    "short": "小企画 美術の中のかたち―手で見る造形 青木 野枝",
+    "museum": "兵庫県立美術館",
+    "region": "兵庫",
+    "start": "2026-10-20",
+    "end": "2027-02-23",
+    "url": "https://www.artm.pref.hyogo.jp/exhibition/j_2610/katachi.html",
+    "bg": "#c6cdbb",
+    "fg": "#303b32",
+    "checkedAt": "2026-10-10",
+    "sourceKey": "hyogo"
   }
 ];
-window.COLLECTION_STATUS={"checkedAt": "2026-10-10T08:55:27.536358+00:00", "sources": [{"museum": "兵庫県立美術館", "status": "取得成功", "count": 4}, {"museum": "大阪中之島美術館", "status": "取得成功", "count": 7}, {"museum": "京都国立博物館", "status": "取得成功", "count": 28}, {"museum": "京都市京セラ美術館・国立西洋美術館", "status": "手動確認分を掲載・自動更新対象外"}]};
+window.COLLECTION_STATUS={"checkedAt": "2026-10-10T08:55:51.139107+00:00", "sources": [{"museum": "兵庫県立美術館", "status": "取得成功", "count": 11}, {"museum": "大阪中之島美術館", "status": "取得成功", "count": 7}, {"museum": "京都国立博物館", "status": "取得成功", "count": 28}, {"museum": "京都市京セラ美術館・国立西洋美術館", "status": "手動確認分を掲載・自動更新対象外"}]};
