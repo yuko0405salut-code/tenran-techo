@@ -526,4 +526,4 @@ window.EXHIBITIONS=[
     "sourceKey": "kyohaku"
   }
 ];
-window.COLLECTION_STATUS={"checkedAt": "2026-10-10T08:46:01.302052+00:00", "sources": [{"museum": "兵庫県立美術館", "status": "取得成功", "count": 4}, {"museum": "大阪中之島美術館", "status": "取得成功", "count": 7}, {"museum": "京都国立博物館", "status": "取得成功", "count": 28}, {"museum": "京都市京セラ美術館・国立西洋美術館", "status": "手動確認分を掲載・自動更新対象外"}]};
+window.COLLECTION_STATUS={"checkedAt": "2026-10-10T08:55:27.536358+00:00", "sources": [{"museum": "兵庫県立美術館", "status": "取得成功", "count": 4}, {"museum": "大阪中之島美術館", "status": "取得成功", "count": 7}, {"museum": "京都国立博物館", "status": "取得成功", "count": 28}, {"museum": "京都市京セラ美術館・国立西洋美術館", "status": "手動確認分を掲載・自動更新対象外"}]};
